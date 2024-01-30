@@ -33,4 +33,4 @@ async def tomi_reset(ctx):
     else:
         await ctx.send("このコマンドを実行する権限がありません。")
 
-bot.run('YOUR_BOT_TOKEN')
+bot.run('MTE5ODUxNDU1MDIyODY1NjE1OA.GnXcHf.DYc3AiTuFJLCQF1QgvPRIfNKoxw6TIkg8qEQeQ')
